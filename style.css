@@ -1,0 +1,24 @@
+.layout {
+  display: flex;
+  flex-direction: column;
+  width: 25rem;
+}
+
+.container {
+  border: 1px solid black;
+  padding: 10px;
+  margin-bottom: 5px;
+}
+.buy {
+  background: black;
+}
+button {
+  color: red;
+}
+body {
+ 
+  background: #fee974;
+}
+input {
+  width:35%;
+}
